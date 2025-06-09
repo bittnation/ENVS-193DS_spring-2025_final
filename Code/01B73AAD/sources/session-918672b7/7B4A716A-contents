@@ -4,8 +4,10 @@ author: "Rachel Bittner"
 format:
   html:
     self-contained: true
-editor: visual
+output-file: index.html
 output-dir: docs
+editor: visual
+
 
 
 
