@@ -1,9 +1,13 @@
----
+
 title: "ENVS-193DS_spring-2025_final"
 author: "Rachel Bittner"
-format: html
+format:
+  html:
+    self-contained: true
 editor: visual
----
+output-dir: docs
+
+
 
 GitHub Repository: https://github.com/bittnation/ENVS-193DS_spring-2025_final.git
 
