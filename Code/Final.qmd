@@ -1,4 +1,4 @@
-
+---
 title: "ENVS-193DS_spring-2025_final"
 author: "Rachel Bittner"
 format:
@@ -7,7 +7,7 @@ format:
 output-file: index.html
 output-dir: docs
 editor: visual
-
+---
 
 
 
